@@ -202,7 +202,7 @@ The project utilizes a curated dataset from the **Comparative Toxicogenomics Dat
 
 ## 👥 Authors
 
-**Fahad Nadim Ziad** - *First Author & Primary Contributor (70%)*
+**Fahad Nadim Ziad** - *First Author & Primary Contributor*
 - **Student ID**: 24341216
 - **Email**: fahad.nadim.ziad@g.bracu.ac.bd
 - **GitHub**: [@fnziad](https://github.com/fnziad)
@@ -242,8 +242,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
+- **Professor Swakkhar Shatabda** - Course Instructor, CSE443 Bioinformatics, BRAC University
 - **BRAC University** Department of Computer Science and Engineering
-- **CSE443 Bioinformatics Course** instructors and teaching assistants
 - **Comparative Toxicogenomics Database (CTD)** for providing the curated gene-disease associations
 - **Unsloth** for high-efficiency QLoRA implementation enabling accessible fine-tuning
 - **Hugging Face** for transformer models and infrastructure
