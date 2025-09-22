@@ -190,7 +190,7 @@ The project utilizes a curated dataset from the **Comparative Toxicogenomics Dat
 **Course**: CSE443 - Bioinformatics  
 **Institution**: BRAC University  
 **Department**: Computer Science and Engineering  
-**Semester**: Fall 2024  
+**Semester**: Summer 2025  
 **Project Type**: Group Research Project
 
 ### Research Objectives
@@ -226,12 +226,12 @@ The project utilizes a curated dataset from the **Comparative Toxicogenomics Dat
 If you use this work in your research, please cite:
 
 ```bibtex
-@misc{ziad2024bioalign,
+@misc{ziad2025bioalign,
   title={Quantifying the Structural Alignment of LLM Embeddings with a Biomedical Knowledge Graph Following QLoRA Fine-Tuning},
   author={Ziad, Fahad Nadim and Khan, Aalavi Mahin and Karim, Khaled Saifullah},
-  year={2024},
+  year={2025},
   institution={BRAC University},
-  note={CSE443 Bioinformatics Course Project},
+  note={CSE443 Bioinformatics Course Project, Summer 2025},
   url={https://github.com/fnziad/BioAlign-QLoRA}
 }
 ```

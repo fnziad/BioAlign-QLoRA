@@ -1,4 +1,8 @@
-# Changelog
+# Ch## [1.0.0] - 2025-09-23
+
+### Added
+- Initial release of BioAlign-QLoRA project (Summer 2025)
+- QLoRA fine-tuning implementation for Llama-3, Mistral 7B, and Phi-3 modelsog
 
 All notable changes to the BioAlign-QLoRA project will be documented in this file.
 
