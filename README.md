@@ -202,22 +202,22 @@ The project utilizes a curated dataset from the **Comparative Toxicogenomics Dat
 
 ## 👥 Authors
 
-**Fahad Nadim Ziad** - *First Author & Project Lead*
+**Fahad Nadim Ziad** - *First Author & Primary Contributor (70%)*
 - **Student ID**: 24341216
 - **Email**: fahad.nadim.ziad@g.bracu.ac.bd
 - **GitHub**: [@fnziad](https://github.com/fnziad)
-- **Role**: Project conception, model implementation, experimental design, Knowledge Graph Separation framework
+- **Role**: Project conception and idea, dataset collection and curation, all code implementation, model fine-tuning, experimental framework, Knowledge Graph Separation methodology, final revision and corrections
 
 **Aalavi Mahin Khan** - *Co-Author*
 - **Student ID**: 22301789
 - **Department**: Computer Science and Engineering, BRAC University
-- **Role**: Data curation and preprocessing, exploratory data analysis, evaluation framework
+- **Role**: Research report writing, documentation
 
 **Khaled Saifullah Karim** - *Co-Author*
 - **Student ID**: 24341262
 - **Department**: Computer Science and Engineering, BRAC University
 - **GitHub**: [@KsKarim7](https://github.com/KsKarim7)
-- **Role**: Dataset construction, model fine-tuning, performance analysis, visualization
+- **Role**: Research report writing, file organization and repository management
 
 > **Note**: Team members may have additional repository access and resources. Please refer to individual repositories for supplementary materials.
 
